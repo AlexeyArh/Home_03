@@ -1,0 +1,15 @@
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\bin\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.exe
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\bin\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.deps.json
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\bin\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.runtimeconfig.json
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\bin\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.dll
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\bin\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.pdb
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\obj\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.csproj.AssemblyReference.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\obj\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\obj\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.AssemblyInfoInputs.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\obj\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.AssemblyInfo.cs
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\obj\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.csproj.CoreCompileInputs.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\obj\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.dll
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\obj\Debug\net6.0\refint\HOMEWORK001_3.ZNAKOMSTVO.dll
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\obj\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.pdb
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\obj\Debug\net6.0\HOMEWORK001_3.ZNAKOMSTVO.genruntimeconfig.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home03\HOMEWORK001_3.ZNAKOMSTVO\obj\Debug\net6.0\ref\HOMEWORK001_3.ZNAKOMSTVO.dll

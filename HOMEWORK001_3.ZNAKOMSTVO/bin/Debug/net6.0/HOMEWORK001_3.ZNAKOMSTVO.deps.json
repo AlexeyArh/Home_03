@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HOMEWORK001_3.ZNAKOMSTVO/1.0.0": {
+        "runtime": {
+          "HOMEWORK001_3.ZNAKOMSTVO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HOMEWORK001_3.ZNAKOMSTVO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
